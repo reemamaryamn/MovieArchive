@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="fance.css">
+    <title>2024 Hits - Movie Archive</title>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">MOVIE ARCHIVE</div>
+        
+        <!-- Navigation Menu -->
+        <div class="nav-menu" id="navMenu">
+            <a href="homepage.html" class="nav-link">Home</a>
+            <a href="2025.html" class="nav-link">2025 Hits</a>
+            <a href="2024.html" class="nav-link active">2024 Hits</a>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <div class="page-header">
+        <h1>2024 HITS</h1>
+        <p>Scroll to explore each film</p>
+    </div>
+
+    <!-- Movies Container -->
+    <div id="movies-container" class="movies-container">
+        <!-- Movies will be loaded here by JavaScript -->
+    </div>
+
+    <script src="movies.js"></script>
+    <script>
+        // Load 2024 movies
+        loadMovies('movies2024.json', 'movies-container');
+    </script>
+</body>
+</html>

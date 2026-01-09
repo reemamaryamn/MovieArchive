@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Superman",
+    "year": 2025,
+    "imdbRating": 7.1,
+    "review": "You can never get disappointed by Superman",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "image": "assets/movieposters2025/Superman.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Weapons",
+    "year": 2025,
+    "imdbRating": 7.5,
+    "review": "The mystery is built masterfully. But once we find out who or what is behind the horror, all I could think is, 'That's it?' I hoped there was more to the story or somewhere interesting the plot could go from there. But there really isn't.",
+    "genre": ["Horror", "Mystery", "Thriller"],
+    "image": "assets/movieposters2025/Weapons.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Sinners",
+    "year": 2025,
+    "imdbRating": 7.5,
+    "review": "I love it when movies mix different genres and create a fresh spin on old themes. In this case however the different elements didn't mix well in my opinion: I would describe sinners as a mix between period gangster drama, musical and trashy B-movie horror.",
+    "genre": ["Drama", "Horror"],
+    "image": "assets/movieposters2025/Sinners.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "One Battle After Another",
+    "year": 2025,
+    "imdbRating": 7.8,
+    "review": "One Battle After Another is a very unusual and engaging film with an interesting story and unexpected humor. Leonardo DiCaprio delivers a strong performance, though his character feels intentionally passive - he doesn't really manage or control the main events, which made me question the idea behind his characterization.",
+    "genre": ["War", "Drama", "History"],
+    "image": "assets/movieposters2025/One Battle After Another.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Jurassic World: Rebirth",
+    "year": 2025,
+    "imdbRating": 5.9,
+    "review": "New chapter in the Jurassic franchise with fresh cast and story. A complete reboot not connected to previous World trilogy.",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "image": "assets/movieposters2025/Jurassic World Rebirth.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Frankenstein",
+    "year": 2025,
+    "imdbRating": 7.5,
+    "review": "Guillermo del Toro's adaptation of Mary Shelley's classic novel. Dark fantasy reimagining with all-star cast.",
+    "genre": ["Drama", "Horror", "Fantasy"],
+    "image": "assets/movieposters2025/Frankenstein.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Happy Gilmore 2",
+    "year": 2025,
+    "imdbRating": 6.1,
+    "review": "Sequel to the 1996 golf comedy classic. Adam Sandler returns as the hot-tempered hockey player turned golfer.",
+    "genre": ["Comedy", "Sport"],
+    "image": "assets/movieposters2025/Happy Gilmore.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Thunderbolts",
+    "year": 2025,
+    "imdbRating": 7.1,
+    "review": "MCU's anti-hero team of reformed villains and anti-heroes on a government mission. Marvel's answer to Suicide Squad.",
+    "genre": ["Action", "Adventure", "Superhero"],
+    "image": "assets/movieposters2025/Thunderbolts.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Mission: Impossible - Final Reckoning",
+    "year": 2025,
+    "imdbRating": 7.2,
+    "review": "Continuation and conclusion of Mission: Impossible - Dead Reckoning. Tom Cruise returns for more death-defying stunts.",
+    "genre": ["Action", "Thriller", "Adventure"],
+    "image": "assets/movieposters2025/Mission Impossible.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "F1",
+    "year": 2025,
+    "imdbRating": 7.7,
+    "review": "Brad Pitt stars in Formula 1 racing film directed by Joseph Kosinski (Top Gun: Maverick). Filmed during actual Grand Prix races.",
+    "genre": ["Action", "Drama", "Sport"],
+    "image": "assets/movieposters2025/F1.jpeg"
+  }
+]

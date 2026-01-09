@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Dune: Part Two",
+    "imdbRating": 8.7,
+    "review": "Epic sci-fi masterpiece that surpasses the first film. Denis Villeneuve delivers stunning visuals, deeper character development, and one of the best sci-fi sequels ever made.",
+    "genre": ["Sci-Fi", "Adventure", "Drama"],
+    "image": "assets/movieposters2024/Dune 2.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Oppenheimer",
+    "imdbRating": 8.4,
+    "review": "Christopher Nolan's brilliant biopic that swept the Oscars. Cillian Murphy delivers a career-defining performance. The Trinity test scene is cinema history.",
+    "genre": ["Biography", "Drama", "History"],
+    "image":"assets/movieposters2024/Oppenheimer.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Barbie",
+    "imdbRating": 6.9,
+    "review": "A surprisingly deep and hilarious social commentary wrapped in pink. Margot Robbie and Ryan Gosling deliver perfect performances. Clever, fun, and meaningful.",
+    "genre": ["Adventure", "Comedy", "Fantasy"],
+    "image":"assets/movieposters2024/Barbie.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Godzilla x Kong: The New Empire",
+    "imdbRating": 6.2,
+    "review": "Monster mashup extravaganza with insane action sequences. Pure spectacle over substance, but delivers exactly what fans want: giant monsters fighting.",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "image":"assets/movieposters2024/GodzillavsKong.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Kung Fu Panda 4",
+    "imdbRating": 6.3,
+    "review": "Entertaining return of Po with new characters. Not as strong as the original trilogy but delivers enough humor and heart for family audiences.",
+    "genre": ["Animation", "Action", "Adventure"],
+    "image":"assets/movieposters2024/Kung Fu Panda 4.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Deadpool & Wolverine",
+    "imdbRating": 8.1,
+    "review": "Hilarious, meta, and action-packed. Ryan Reynolds and Hugh Jackman have incredible chemistry. The perfect MCU debut for Deadpool.",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "image":"assets/movieposters2024/Deadpool and Wolverine.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Kingdom of the Planet of the Apes",
+    "imdbRating": 7.0,
+    "review": "Strong continuation of the Apes saga with breathtaking visuals and emotional depth. Proves this franchise still has plenty to say.",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "image":"assets/movieposters2024/Kingdom of the Planet of the Apes.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Inside Out 2",
+    "imdbRating": 7.9,
+    "review": "Brilliant sequel that explores teenage emotions with Pixar's signature heart and humor. Anxiety character is perfectly realized.",
+    "genre": ["Animation", "Adventure", "Comedy"],
+    "image":"assets/movieposters2024/Inside Out 2.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Furiosa: A Mad Max Saga",
+    "imdbRating": 7.9,
+    "review": "Epic prequel with breathtaking action and Anya Taylor-Joy's fierce performance. George Miller delivers another masterpiece.",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "image":"assets/movieposters2024/Furiosa A Mad Max Saga.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "The Fall Guy",
+    "year": 2024,
+    "imdbRating": 7.1,
+    "review": "Fun, action-packed love letter to stunt performers. Ryan Gosling and Emily Blunt have great chemistry. Surprisingly heartfelt.",
+    "genre": ["Action", "Comedy", "Drama"],
+    "image":"assets/movieposters2024/The Fall Guy.jpeg"
+  }
+]
